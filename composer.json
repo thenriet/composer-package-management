@@ -1,0 +1,11 @@
+{
+    "name": "tom/composer-package-management",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
